@@ -471,6 +471,7 @@ img {
 .wrapper__full {
     max-width: 1262px;
     margin: 0 auto;
+    padding:  0 15px;
 }
 
 .section__title {
